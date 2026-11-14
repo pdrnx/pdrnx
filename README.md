@@ -43,7 +43,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pdrnx/)
 
 📧 **E-mail:** pedronrn2007@gmail.com
 
