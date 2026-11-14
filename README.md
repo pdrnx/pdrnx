@@ -30,6 +30,7 @@ Estou sempre buscando aprender novas tecnologias, desenvolver minhas habilidades
 
 - JavaScript e desenvolvimento web.
 - Fundamentos de infraestrutura e redes.
+- Linux, Docker e Nginx.
 - Estruturas de dados e lógica de programação.
 
 ### 🎯 Objetivos
